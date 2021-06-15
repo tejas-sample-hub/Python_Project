@@ -1,1 +1,1 @@
-print('This is first line in second python script')
+print('This is first line in test script')
